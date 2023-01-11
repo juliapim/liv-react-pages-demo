@@ -1,6 +1,7 @@
 import logo from './images/logoLIV.png';
 import teabag from './images/teabag.png';
 import himmpowder from './images/himmpowder.png';
+import ProductInfo from './components/Productinfo/ProductInfo';
 import './App.css';
 import { ViewSwitch } from './components/Countdown/ViewSwitch'
 
@@ -12,12 +13,7 @@ function App() {
           <h1>Loren ipsum loren lorem latin manes luinpal </h1>
          </section>
          <section className="App-container">
-          <div>
-          <img className="teacards" src={teabag}/>
-          <img className="teacards" src={himmpowder}/>
-        <img className="teacards" src={teabag}/>
-        <img className="teacards" src={teabag}/>
-          </div>
+          <ProductInfo/>
        
         </section>
         <section className="App-container3">
