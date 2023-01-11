@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/liv-react-pages-demo/static/css/main.8fbd5ab1.css",
-    "main.js": "/liv-react-pages-demo/static/js/main.bbbaf682.js",
+    "main.css": "/liv-react-pages-demo/static/css/main.0d627c89.css",
+    "main.js": "/liv-react-pages-demo/static/js/main.55afa91e.js",
     "static/js/787.bcf4792b.chunk.js": "/liv-react-pages-demo/static/js/787.bcf4792b.chunk.js",
-    "static/media/leaves.jpg": "/liv-react-pages-demo/static/media/leaves.c47dabe2082688d1b53b.jpg",
     "static/media/himmpowder.png": "/liv-react-pages-demo/static/media/himmpowder.9f7923fd317411ce86d7.png",
-    "static/media/logoLIV.png": "/liv-react-pages-demo/static/media/logoLIV.cb570965a8f575ab7c66.png",
+    "static/media/mango.png": "/liv-react-pages-demo/static/media/mango.ed5dd75e9a73d11f00f7.png",
+    "static/media/mintpowder.png": "/liv-react-pages-demo/static/media/mintpowder.f6025f5c69fa903718a8.png",
+    "static/media/teabag-orange.png": "/liv-react-pages-demo/static/media/teabag-orange.34b9d12a9350628cc3f1.png",
     "static/media/teabag.png": "/liv-react-pages-demo/static/media/teabag.740473ef40c80e27f243.png",
+    "static/media/teabag-green.png": "/liv-react-pages-demo/static/media/teabag-green.3b2b4a8c196c24749ccb.png",
+    "static/media/logoLIV.png": "/liv-react-pages-demo/static/media/logoLIV.cb570965a8f575ab7c66.png",
     "index.html": "/liv-react-pages-demo/index.html",
-    "main.8fbd5ab1.css.map": "/liv-react-pages-demo/static/css/main.8fbd5ab1.css.map",
-    "main.bbbaf682.js.map": "/liv-react-pages-demo/static/js/main.bbbaf682.js.map",
+    "main.0d627c89.css.map": "/liv-react-pages-demo/static/css/main.0d627c89.css.map",
+    "main.55afa91e.js.map": "/liv-react-pages-demo/static/js/main.55afa91e.js.map",
     "787.bcf4792b.chunk.js.map": "/liv-react-pages-demo/static/js/787.bcf4792b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8fbd5ab1.css",
-    "static/js/main.bbbaf682.js"
+    "static/css/main.0d627c89.css",
+    "static/js/main.55afa91e.js"
   ]
 }
