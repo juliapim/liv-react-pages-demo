@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/liv-react-pages-demo/static/css/main.073c9b0a.css",
+    "main.js": "/liv-react-pages-demo/static/js/main.e4115c07.js",
+    "static/js/787.bcf4792b.chunk.js": "/liv-react-pages-demo/static/js/787.bcf4792b.chunk.js",
+    "static/media/logo.svg": "/liv-react-pages-demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/liv-react-pages-demo/index.html",
+    "main.073c9b0a.css.map": "/liv-react-pages-demo/static/css/main.073c9b0a.css.map",
+    "main.e4115c07.js.map": "/liv-react-pages-demo/static/js/main.e4115c07.js.map",
+    "787.bcf4792b.chunk.js.map": "/liv-react-pages-demo/static/js/787.bcf4792b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e4115c07.js"
+  ]
+}
