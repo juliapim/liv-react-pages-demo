@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/liv-react-pages-demo/static/css/main.8fbd5ab1.css",
-    "main.js": "/liv-react-pages-demo/static/js/main.e68ee527.js",
+    "main.js": "/liv-react-pages-demo/static/js/main.bbbaf682.js",
     "static/js/787.bcf4792b.chunk.js": "/liv-react-pages-demo/static/js/787.bcf4792b.chunk.js",
     "static/media/leaves.jpg": "/liv-react-pages-demo/static/media/leaves.c47dabe2082688d1b53b.jpg",
     "static/media/himmpowder.png": "/liv-react-pages-demo/static/media/himmpowder.9f7923fd317411ce86d7.png",
@@ -9,11 +9,11 @@
     "static/media/teabag.png": "/liv-react-pages-demo/static/media/teabag.740473ef40c80e27f243.png",
     "index.html": "/liv-react-pages-demo/index.html",
     "main.8fbd5ab1.css.map": "/liv-react-pages-demo/static/css/main.8fbd5ab1.css.map",
-    "main.e68ee527.js.map": "/liv-react-pages-demo/static/js/main.e68ee527.js.map",
+    "main.bbbaf682.js.map": "/liv-react-pages-demo/static/js/main.bbbaf682.js.map",
     "787.bcf4792b.chunk.js.map": "/liv-react-pages-demo/static/js/787.bcf4792b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8fbd5ab1.css",
-    "static/js/main.e68ee527.js"
+    "static/js/main.bbbaf682.js"
   ]
 }
