@@ -14,9 +14,11 @@ function App() {
          </section>
          <section className="App-container">
           <ProductInfo/>
-       
         </section>
         <section className="App-container3">
+          <div className='product-picture'>
+            <img></img>
+          </div>
          <ViewSwitch/>
         </section>
        
