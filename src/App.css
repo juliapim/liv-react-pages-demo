@@ -6,33 +6,45 @@
 .App-logo {
   height: 80px;
   pointer-events: none;
-  position: absolute; top: 12pt; left: 24pt;
+  position: absolute; top: 12pt; 
+}
+a{
+  text-decoration: none;
+  color: white;
 }
 
-
 .App-container {
-  background-color:#D7E1D2;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
-  
+  color: rgb(13, 10, 10);
+  font-family:Arial, Helvetica, sans-serif
+}
+h1{
+  color:white;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  width: 20vw;
+  padding-left: 106px;
+  font-size: 55px;
+  text-shadow: black;
+  padding-top: 76px;
+
 }
 .App-container2 {
  background-color: #AABF9B;
-
+ background-image: url('./images/teainbed.png');
  background-position:center;
  background-size: cover;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  
 }
 
 .App-container3 {
@@ -44,15 +56,172 @@
    justify-content: center;
    font-size: calc(10px + 2vmin);
    color: white;
+   display: flex;
  }
+
+ @media screen and (min-width: 768px){
+
+   
+}
 
 .App-link {
   color: #61dafb;
 }
 
+
+.countdown-div {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  /* width: 50%; */
+  /* align-items: flex-start; */
+  justify-content: space-evenly;
+}
+
+.countdown-section {
+  width: 100vw;
+  text-align: center;
+  height: 100vh;
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* align-items: end; */
+  /* justify-content: center; */
+}
+
+.date-number{
+  font-weight: bold;
+  font-size: 52px;
+}
+
+.day-day{
+  font-size: 31px;
+}
+
+.day-hour{
+  font-size: 31px;
+}
+
+.day-minutes{
+  font-size: 31px;
+}
+.day-seconds{
+  font-size: 31px;
+}
+.footer{
+  flex-direction: row;
+  padding: 40px;
+  background-color: #AABF9B;
+  color: white;    
+}
+
+h1{
+}
+
+.liv-logo{
+  width: 100vw;
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  /* flex-direction: column; */
+  position: absolute;
+  top: 0;
+}
+
+p{
+  font-size: 18px;
+  text-align: center;
+}
+.products{
+  display: flex;
+  flex-direction: column;
+}
+
+.products-cards{
+  display: flex;
+    flex-direction: column;
+   
+}
+
+#product-info{
+  width: 200px;
+}
+.countdown-section{
+  width: 50vw;
+  text-align: center;
+  height: 100vh;
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.comming-soon-title{
+  font-size: 55px;
+  padding: 0;
+  width: auto;
+}
+
+.div-count{
+  display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    justify-content: center;
+    width: 31vw;
+    align-self: center;
+}
+@media screen and (min-width: 768px){
+  .div-count{
+    width: 11vw;
+  }
+  .footer{
+    flex-direction: row;
+    padding: 40px;
+    background-color: #AABF9B;
+    color: white;    
+  }
+
+  .link-container{
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .products{
+    flex-direction: row;
+  }
+  .products-cards{
+    display: flex;
+      flex-direction: column;
+      margin-right: 116px;
+      margin-top: 20px;
+  }
+  .App-container3{
+    flex-direction: row;
+    
+  }
+
+.countdown-section{
+  justify-content: flex-start;
+}
+}
+
 .teacards{
   height: 200px;
 }
+
+.tea-shadow{
+  height: 100%;
+  width: 100%;
+  -o-object-fit: contain;
+  object-fit: contain;
+}
+@media screen and (max-width: 768px){
+  .tea-shadow{
+  display: none;
+  }
+   
+}
+
+
 
 @keyframes App-logo-spin {
   from {

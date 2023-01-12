@@ -21,7 +21,6 @@ export const Countdown = () => {
 
   return (
     <>
-      <p></p>
       <p className="counter">
         <span>{days}d </span>
         <span>{hours}h </span>

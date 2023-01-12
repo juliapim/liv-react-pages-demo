@@ -16,17 +16,32 @@ export const CountdownMonths = () => {
   }, []);
 
   return (
-    <>
-      <p>LAUNCHING SOON:</p>
-      <div className="counter">
-        <div>
-        <span>{timeBetween.days()}</span>
-        <p>days</p>
+    
+    
+       <div className="countdown-section">       
+        <div className="comming-soon-title">
+         <h1 className="comming-soon-title">COMING SOON</h1>
         </div>
-        <span>{timeBetween.hours()} hours </span>
-        <span>{timeBetween.minutes()} min </span>
-        <span>{timeBetween.seconds()}s </span>
+       <div className="div-count">
+         <div className="div-numbers-letters">
+          <span className="date-number">{timeBetween.days()} </span>
+          <span className="day-day">days</span>
+         </div>
+          <div className="div-numbers-letters">
+          <span className="date-number">{timeBetween.hours()} </span>
+          <span className="day-hour">hours</span>
+         </div>
+         <div className="div-numbers-letters">
+          <span className="date-number">{timeBetween.minutes()} </span> 
+          <span className="day-minutes">minutes</span>
+         </div>
+         <div>
+          <span className="date-number">{timeBetween.seconds()} </span>
+         <span className="day-seconds">seconds</span>
+        
+        </div>
+        </div>
       </div>
-    </>
+    
   );
 };
