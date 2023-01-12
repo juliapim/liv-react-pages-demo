@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/liv-react-pages-demo/static/css/main.0d627c89.css",
-    "main.js": "/liv-react-pages-demo/static/js/main.55afa91e.js",
+    "main.css": "/liv-react-pages-demo/static/css/main.78fd9419.css",
+    "main.js": "/liv-react-pages-demo/static/js/main.4c696de9.js",
     "static/js/787.bcf4792b.chunk.js": "/liv-react-pages-demo/static/js/787.bcf4792b.chunk.js",
-    "static/media/himmpowder.png": "/liv-react-pages-demo/static/media/himmpowder.9f7923fd317411ce86d7.png",
-    "static/media/mango.png": "/liv-react-pages-demo/static/media/mango.ed5dd75e9a73d11f00f7.png",
-    "static/media/mintpowder.png": "/liv-react-pages-demo/static/media/mintpowder.f6025f5c69fa903718a8.png",
-    "static/media/teabag-orange.png": "/liv-react-pages-demo/static/media/teabag-orange.34b9d12a9350628cc3f1.png",
-    "static/media/teabag.png": "/liv-react-pages-demo/static/media/teabag.740473ef40c80e27f243.png",
-    "static/media/teabag-green.png": "/liv-react-pages-demo/static/media/teabag-green.3b2b4a8c196c24749ccb.png",
+    "static/media/teainbed.png": "/liv-react-pages-demo/static/media/teainbed.90369b82248485fd309d.png",
+    "static/media/shadow.png": "/liv-react-pages-demo/static/media/shadow.781524a480e80312bb02.png",
+    "static/media/mango.png": "/liv-react-pages-demo/static/media/mango.7a3e9f78e5764615057c.png",
+    "static/media/himmpowder.png": "/liv-react-pages-demo/static/media/himmpowder.2188966284eb25618d0b.png",
+    "static/media/mintpowder.png": "/liv-react-pages-demo/static/media/mintpowder.e485274915c24ede0878.png",
+    "static/media/teapack-himm.png": "/liv-react-pages-demo/static/media/teapack-himm.2119e633678aa5ebc1e7.png",
+    "static/media/teapack-mango.png": "/liv-react-pages-demo/static/media/teapack-mango.f273cb2951f3927e66ca.png",
     "static/media/logoLIV.png": "/liv-react-pages-demo/static/media/logoLIV.cb570965a8f575ab7c66.png",
+    "static/media/teapack-mint.png": "/liv-react-pages-demo/static/media/teapack-mint.986185c298838835c4bf.png",
+    "static/media/LIV-branco.png": "/liv-react-pages-demo/static/media/LIV-branco.97571f3bde7cb146cd38.png",
+    "static/media/bulletpoints.png": "/liv-react-pages-demo/static/media/bulletpoints.4c7d70b50de696618dd3.png",
     "index.html": "/liv-react-pages-demo/index.html",
-    "main.0d627c89.css.map": "/liv-react-pages-demo/static/css/main.0d627c89.css.map",
-    "main.55afa91e.js.map": "/liv-react-pages-demo/static/js/main.55afa91e.js.map",
+    "main.78fd9419.css.map": "/liv-react-pages-demo/static/css/main.78fd9419.css.map",
+    "main.4c696de9.js.map": "/liv-react-pages-demo/static/js/main.4c696de9.js.map",
     "787.bcf4792b.chunk.js.map": "/liv-react-pages-demo/static/js/787.bcf4792b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d627c89.css",
-    "static/js/main.55afa91e.js"
+    "static/css/main.78fd9419.css",
+    "static/js/main.4c696de9.js"
   ]
 }
