@@ -28,7 +28,7 @@ h1{
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   width: 20vw;
   padding-left: 106px;
-  font-size: 55px;
+  font-size: 44px;
   text-shadow: black;
   padding-top: 76px;
 
@@ -90,23 +90,23 @@ h1{
 
 .date-number{
   font-weight: bold;
-  font-size: 52px;
+  font-size: 30px;
 }
 
 .day-day{
   font-size: 31px;
 }
 
-.day-hour{
-  font-size: 31px;
+.day-hour,.day-minutes ,.day-seconds{
+  font-size: 21px;
 }
 
-.day-minutes{
-  font-size: 31px;
+h4{
+  font-size: 23px;
+    color: #0F4641;
+    text-align: center;
 }
-.day-seconds{
-  font-size: 31px;
-}
+
 .footer{
   flex-direction: row;
   padding: 40px;
@@ -137,7 +137,7 @@ p{
   flex-direction: column;
 }
 
-.products-cards{
+.products-card{
   display: flex;
     flex-direction: column;
    
@@ -156,7 +156,7 @@ p{
 }
 
 .comming-soon-title{
-  font-size: 55px;
+  font-size: 44px;
   padding: 0;
   width: auto;
 }
@@ -180,6 +180,21 @@ p{
     color: white;    
   }
 
+  h1{
+    color:white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 20vw;
+    padding-left: 106px;
+    font-size: 55px;
+    text-shadow: black;
+    padding-top: 76px;
+  
+  }
+
+  h4{
+    font-size: 33px;
+  }
+
   .link-container{
     display: flex;
     justify-content: space-around;
@@ -198,6 +213,9 @@ p{
     flex-direction: row;
     
   }
+.comming-soon{
+  font-size: 55px;
+}
 
 .countdown-section{
   justify-content: flex-start;

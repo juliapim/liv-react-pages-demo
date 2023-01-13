@@ -18,6 +18,9 @@ function App() {
           </div>
          </section>
          <section className="App-container">
+         <div>
+            <h4>Three different flavors for instant happiness</h4>
+        </div>
           <ProductInfo/>
         </section>
         <section className="App-container3">

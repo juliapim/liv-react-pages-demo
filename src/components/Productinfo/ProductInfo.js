@@ -8,25 +8,24 @@ import teapack from '../Productinfo/images/teapack-himm.png'
 
 export default function ProductInfo (){
     return  <div className='products'>
-          <div className='products-cards'>
+     
+          <div className='products-card'>
               <img className="teacards" src={teabaggreen}/>
               <img className="teacards" src={bulletpoints}/>
               <img className="teacards" src={mint}/>
-              <p id='product-info'>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
+       
             </div> 
-             <div className='products-cards'>
+             <div className='products-card'>
                <img className="teacards" src={teapack}/>
                <img className="teacards" src={bulletpoints}/>
                <img className="teacards" src={himmpowder}/>
-               <p id='product-info'>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
              </div>
-            <div className='products-cards'>
+            <div className='products-card'>
               <img className="teacards" src={teabagorange}/>
               <img className="teacards" src={bulletpoints}/>
               <img className="teacards" src={mango}/>
-              <p id='product-info'>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
              
             </div>
-           
+          
            </div>
 }
