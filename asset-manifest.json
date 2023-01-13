@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/liv-react-pages-demo/static/css/main.22d8b7d6.css",
-    "main.js": "/liv-react-pages-demo/static/js/main.767ecfc6.js",
+    "main.css": "/liv-react-pages-demo/static/css/main.431d194c.css",
+    "main.js": "/liv-react-pages-demo/static/js/main.1cf168ed.js",
     "static/js/787.bcf4792b.chunk.js": "/liv-react-pages-demo/static/js/787.bcf4792b.chunk.js",
     "static/media/teainbed.png": "/liv-react-pages-demo/static/media/teainbed.90369b82248485fd309d.png",
     "static/media/shadow.png": "/liv-react-pages-demo/static/media/shadow.781524a480e80312bb02.png",
     "static/media/mango.png": "/liv-react-pages-demo/static/media/mango.7a3e9f78e5764615057c.png",
     "static/media/himmpowder.png": "/liv-react-pages-demo/static/media/himmpowder.2188966284eb25618d0b.png",
     "static/media/mintpowder.png": "/liv-react-pages-demo/static/media/mintpowder.e485274915c24ede0878.png",
-    "static/media/teapack-himm.png": "/liv-react-pages-demo/static/media/teapack-himm.2119e633678aa5ebc1e7.png",
-    "static/media/teapack-mango.png": "/liv-react-pages-demo/static/media/teapack-mango.f273cb2951f3927e66ca.png",
-    "static/media/logoLIV.png": "/liv-react-pages-demo/static/media/logoLIV.cb570965a8f575ab7c66.png",
-    "static/media/teapack-mint.png": "/liv-react-pages-demo/static/media/teapack-mint.986185c298838835c4bf.png",
+    "static/media/himm-powder.png": "/liv-react-pages-demo/static/media/himm-powder.b1a9ad43087af134c0ac.png",
+    "static/media/mint-powder.png": "/liv-react-pages-demo/static/media/mint-powder.9979dcbed5721799bf90.png",
+    "static/media/mango-powder.png": "/liv-react-pages-demo/static/media/mango-powder.fbd51a474b31c4339b11.png",
     "static/media/LIV-branco.png": "/liv-react-pages-demo/static/media/LIV-branco.97571f3bde7cb146cd38.png",
     "static/media/bulletpoints.png": "/liv-react-pages-demo/static/media/bulletpoints.4c7d70b50de696618dd3.png",
     "index.html": "/liv-react-pages-demo/index.html",
-    "main.22d8b7d6.css.map": "/liv-react-pages-demo/static/css/main.22d8b7d6.css.map",
-    "main.767ecfc6.js.map": "/liv-react-pages-demo/static/js/main.767ecfc6.js.map",
+    "main.431d194c.css.map": "/liv-react-pages-demo/static/css/main.431d194c.css.map",
+    "main.1cf168ed.js.map": "/liv-react-pages-demo/static/js/main.1cf168ed.js.map",
     "787.bcf4792b.chunk.js.map": "/liv-react-pages-demo/static/js/787.bcf4792b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.22d8b7d6.css",
-    "static/js/main.767ecfc6.js"
+    "static/css/main.431d194c.css",
+    "static/js/main.1cf168ed.js"
   ]
 }
