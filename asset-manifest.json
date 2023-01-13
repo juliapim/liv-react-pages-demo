@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/liv-react-pages-demo/static/css/main.78fd9419.css",
-    "main.js": "/liv-react-pages-demo/static/js/main.4c696de9.js",
+    "main.css": "/liv-react-pages-demo/static/css/main.22d8b7d6.css",
+    "main.js": "/liv-react-pages-demo/static/js/main.767ecfc6.js",
     "static/js/787.bcf4792b.chunk.js": "/liv-react-pages-demo/static/js/787.bcf4792b.chunk.js",
     "static/media/teainbed.png": "/liv-react-pages-demo/static/media/teainbed.90369b82248485fd309d.png",
     "static/media/shadow.png": "/liv-react-pages-demo/static/media/shadow.781524a480e80312bb02.png",
@@ -15,12 +15,12 @@
     "static/media/LIV-branco.png": "/liv-react-pages-demo/static/media/LIV-branco.97571f3bde7cb146cd38.png",
     "static/media/bulletpoints.png": "/liv-react-pages-demo/static/media/bulletpoints.4c7d70b50de696618dd3.png",
     "index.html": "/liv-react-pages-demo/index.html",
-    "main.78fd9419.css.map": "/liv-react-pages-demo/static/css/main.78fd9419.css.map",
-    "main.4c696de9.js.map": "/liv-react-pages-demo/static/js/main.4c696de9.js.map",
+    "main.22d8b7d6.css.map": "/liv-react-pages-demo/static/css/main.22d8b7d6.css.map",
+    "main.767ecfc6.js.map": "/liv-react-pages-demo/static/js/main.767ecfc6.js.map",
     "787.bcf4792b.chunk.js.map": "/liv-react-pages-demo/static/js/787.bcf4792b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78fd9419.css",
-    "static/js/main.4c696de9.js"
+    "static/css/main.22d8b7d6.css",
+    "static/js/main.767ecfc6.js"
   ]
 }
