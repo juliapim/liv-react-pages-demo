@@ -1,9 +1,12 @@
-import logo from './images/logoLIV.png';
 import livlogo from './images/LIV-branco.png';
 import teaImage from './images/shadow.png'
 import ProductInfo from './components/Productinfo/ProductInfo';
 import './App.css';
-import { ViewSwitch } from './components/Countdown/ViewSwitch'
+import { ViewSwitch } from './components/Countdown/ViewSwitch';
+import Footer from './components/Footer/Footer';
+
+
+
 
 function App() {
   return (
@@ -19,7 +22,7 @@ function App() {
          </section>
          <section className="App-container">
          <div>
-            <h4>Three different flavors for instant happiness</h4>
+            <h4>Three different flavors for your instant happiness</h4>
         </div>
           <ProductInfo/>
         </section>
@@ -29,21 +32,7 @@ function App() {
             <img className='tea-shadow' src={teaImage} alt="tea-shadow"></img>
           </div> 
         </section>
-       <footer>
-       <div class="footer">
-      <div class="link-container">
-        <a href="/imprint" class="link">Imprint</a> 
-        <a href="/privacypolicy" class="link">Privacy Policy</a> 
-        <button id="ot-sdk-btn" class="link ot-sdk-show-settings">Settings</button>
-      </div> 
-      <div class="some">
-        <a target="_blank" href="https://www.instagram.com/eracoffee"></a>
-      </div> 
-      <div class="lang-copy">
-        <p class="copy">2023 © 10X Innovation GmbH &amp; Co. KG</p>
-        </div>
-        </div>
-       </footer>
+     <Footer />
     </div>
   );
 }

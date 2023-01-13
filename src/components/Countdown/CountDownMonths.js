@@ -40,6 +40,7 @@ export const CountdownMonths = () => {
          <span className="day-seconds">seconds</span>
         
         </div>
+        <button>Subscribe!</button>
         </div>
       </div>
     
